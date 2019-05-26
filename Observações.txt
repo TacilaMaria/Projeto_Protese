@@ -1,0 +1,4 @@
+Para visualizar e utilizar o código baixar a IDE do Arduino disponível em: https://www.arduino.cc/en/Main/Software
+Necessário Baixar a Biblioteca VarSpeedServo para o código disponível em: https://github.com/filipeflop/VarSpeedServo
+O utilizar os esquemas de modelagem baixar o programa Sketchup disponível  em:  https://www.sketchup.com/pt-BR/download/all
+E para modificar os esquemas eletricos e eletronicos baixar o programa Fritzing disponível em: http://fritzing.org/home/
